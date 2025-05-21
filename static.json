@@ -8,10 +8,10 @@
     "version": "1.0.0",
     "attributes": {
       "metadata": {
-        "title": "Search | Globus Search Portal"
+        "title": "spawn"
       },
       "content": {
-        "headline": "Globus Search Portal"
+        "headline": "spawned"
       },
       "features": {
         "transfer": false
@@ -33,7 +33,7 @@
       },
       "globus": {
         "search": {
-          "index": "78b92aca-e361-4307-8f66-bc448f20e2c3",
+          "index": "e263b547-bdff-4d7a-83f0-f50a05f97771",
           "facets": [
             {
               "name": "Tags",
